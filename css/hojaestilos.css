@@ -8,11 +8,20 @@ body {
     background-color: rgba(162, 160, 160, 0.562);
 }
 
-
 body.aston{
     background-color: rgb(0, 102, 95);
-    color: white;
     text-align: center;
+}
+
+body.ferrari{
+    background-color: rgb(224, 0, 26);
+    text-align: center;
+}
+
+.vuelta{
+    color: white;
+    font-size: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .p-texto{
