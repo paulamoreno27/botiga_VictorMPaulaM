@@ -18,9 +18,19 @@ body.ferrari{
     text-align: center;
 }
 
+body.mercedes{
+    background-color: rgb(200, 204, 206);
+    text-align: center;
+}
+
+body.redbull{
+    background-color: rgb(0, 47, 100);
+    text-align: center;
+}
+
 .vuelta{
     color: white;
-    font-size: 300px;
+    font-size: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
