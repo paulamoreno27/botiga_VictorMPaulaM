@@ -20,6 +20,10 @@ header.mclaren{
     padding: 20px 0;
 }
 
+main {
+    padding: 20px 0;
+}
+
 .row {
     display: flex;
     justify-content: space-between;
@@ -29,6 +33,15 @@ header.mclaren{
 .column {
     flex: 1;
     margin-right: 10px;
+}
+
+.column:last-child {
+    margin-right: 0;
+}
+
+img {
+    width: 100%;
+    height: auto;
 }
 
 .vuelta{
