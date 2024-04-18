@@ -71,6 +71,13 @@ header.aston {
     padding: 20px 0;
 }
 
+header.redbull {
+    background-color: rgb(0, 47, 100);
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
 main {
     padding: 20px 0;
 }
