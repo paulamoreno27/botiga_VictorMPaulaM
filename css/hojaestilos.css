@@ -4,6 +4,12 @@
     background-color: black;
 }
 
+.imagenes-inicio{
+    width: 40%;
+    height: auto;
+    align-items: center;
+}
+
 body.inicio {
     background-color: rgba(162, 160, 160, 0.562);
 }
@@ -67,10 +73,28 @@ img {
     margin: auto;
 }
 
-img {
-    width: 250px;
-}
-
 p-texto {
     margin-top: 250px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #f0f0f0;
+}
+
+footer img {
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+span {
+    color: rgb(0, 0, 0);
+    font-size: 90%;
+    text-align: center;
+}
+
+#Fernando {
+    width: 5%;
+    height: auto;
 }

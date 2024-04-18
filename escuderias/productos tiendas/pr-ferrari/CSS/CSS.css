@@ -8,6 +8,12 @@ body {
     margin: 0 auto;
 }
 
+.fila-1{
+    align-items: center;
+    width: 50%;
+    height: 50%;
+}
+
 header {
     background-color: rgb(255, 0, 0);
     color: white;
