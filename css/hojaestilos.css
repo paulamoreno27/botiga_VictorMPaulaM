@@ -22,6 +22,19 @@
     height: 20%;
 }
 
+.imagenes3{
+    width: 40%;
+    height: 20%;
+}
+
+.imagenes1
+.eventos {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    background-color: black;
+    margin-top: 5%;
+}
+
 body.inicio {
     background-color: rgba(162, 160, 160, 0.562);
 }
@@ -133,4 +146,8 @@ span {
 #Fernando {
     width: 5%;
     height: auto;
+}
+
+.imagenes3 {
+
 }
