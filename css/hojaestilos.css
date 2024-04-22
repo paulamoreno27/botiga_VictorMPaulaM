@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Quicksand:wght@300..700&family=Racing+Sans+One&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+
 .titulo {
     text-align: center;
     color: rgb(255, 0, 0);
     background-color: black;
+    font-family: "Racing Sans One", sans-serif;
 }
 
 .imagen1{
@@ -23,16 +27,31 @@
 }
 
 .imagenes3{
-    width: 40%;
+    width: 35%;
     height: 20%;
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.imagenes4{
+    width: 35%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    
 }
 
 .imagenes1
-.eventos {
+
+h2 {
     text-align: center;
     color: rgb(255, 0, 0);
     background-color: black;
     margin-top: 5%;
+    font-family: "Racing Sans One", sans-serif;
 }
 
 body.inicio {
@@ -48,6 +67,8 @@ body.inicio {
     display: block;
     text-align: center;
     padding-bottom: 50px;
+    font-family: "Racing Sans One", sans-serif;
+    color: red;
 }
 
 .proyectos {
@@ -79,6 +100,7 @@ header.mclaren{
     color: white;
     text-align: center;
     padding: 20px 0;
+    font-family: "Racing Sans One", sans-serif;
 }
 
 header.ferrari {
@@ -86,6 +108,7 @@ header.ferrari {
     color: white;
     text-align: center;
     padding: 20px 0;
+    font-family: "Racing Sans One", sans-serif;
 }
 
 header.aston {
@@ -93,6 +116,7 @@ header.aston {
     color: white;
     text-align: center;
     padding: 20px 0;
+    font-family: "Racing Sans One", sans-serif;
 }
 
 header.redbull {
@@ -100,6 +124,7 @@ header.redbull {
     color: white;
     text-align: center;
     padding: 20px 0;
+    font-family: "Racing Sans One", sans-serif;
 }
 
 main {
