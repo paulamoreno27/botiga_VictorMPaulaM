@@ -183,11 +183,16 @@ span {
   
 @media only screen and (max-width: 800px) {
     .imagenes3 {
-        width: 50%;
+        width: 35%;
+        margin-right: 50%;
     }
     .imagenes4 {
-        width: 50%;
+        width: 35%;
+        margin-right: 50%;
     }
-  }
+    .lenguas {
+        font-size: 75%;
+    }
+}
 
   
