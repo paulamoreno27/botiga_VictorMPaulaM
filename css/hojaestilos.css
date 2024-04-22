@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Quicksand:wght@300..700&family=Racing+Sans+One&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Quicksand:wght@300..700&family=Racing+Sans+One&family=Raleway:ital,wght@0,100..900;1,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
 
 .titulo {
     text-align: center;
@@ -34,6 +34,7 @@
     margin-left: 30%;
     margin-right: 30%;
 }
+
 .imagenes4{
     width: 35%;
     height: 20%;
@@ -41,17 +42,6 @@
     justify-content: center;
     margin-left: 30%;
     margin-right: 30%;
-    
-}
-
-.imagenes1
-
-h2 {
-    text-align: center;
-    color: rgb(255, 0, 0);
-    background-color: black;
-    margin-top: 5%;
-    font-family: "Racing Sans One", sans-serif;
 }
 
 body.inicio {
@@ -61,14 +51,7 @@ body.inicio {
 .vuelta{
     color: white;
     font-size: 50px;
-}
-
-.p-texto{
-    display: block;
-    text-align: center;
-    padding-bottom: 50px;
-    font-family: "Racing Sans One", sans-serif;
-    color: red;
+    font-family: "Raleway", sans-serif;
 }
 
 .proyectos {
@@ -81,18 +64,20 @@ body.inicio {
     margin: auto;
 }
 
-p-texto {
-    margin-top: 250px;
+.p-texto {
+    text-align: center;
+    color: red;
+    font-family: "Racing Sans One", sans-serif;
 }
 
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
 }
 
 .container {
     width: 80%;
     margin: 0 auto;
+    font-family: "Racing Sans One", sans-serif;
 }
 
 header.mclaren{
@@ -135,15 +120,18 @@ main {
     display: flex;
     justify-content: space-between;
     margin-bottom: 20px;
+    font-family: "Raleway", sans-serif;
 }
 
 .column {
     flex: 1;
     margin-right: 10px;
+    font-family: "Raleway", sans-serif;
 }
 
 .column:last-child {
     margin-right: 0;
+    font-family: "Raleway", sans-serif;
 }
 
 img {
@@ -155,6 +143,7 @@ footer {
     text-align: center;
     padding: 20px 0;
     background-color: #f0f0f0;
+    font-family: "Raleway", sans-serif;
 }
 
 footer img {
@@ -166,6 +155,7 @@ span {
     color: rgb(0, 0, 0);
     font-size: 90%;
     text-align: center;
+    font-family: "Raleway", sans-serif;
 }
 
 #Fernando {
@@ -173,6 +163,10 @@ span {
     height: auto;
 }
 
-.imagenes3 {
-
+.eventos {
+    display: block;
+    background-color: black;
+    text-align: center;
+    font-family: "Racing Sans One", sans-serif;
+    color: red;
 }
